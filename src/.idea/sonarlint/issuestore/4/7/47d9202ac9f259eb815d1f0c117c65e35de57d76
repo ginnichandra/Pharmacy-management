@@ -1,0 +1,21 @@
+
+X	java:S125L"<This block of commented-out lines of code should be removed.(ÎÖá8ˆû¢£.
+T
+java:S2696‘"6Make the enclosing method "static" or remove this set.(£œ²¥8ÿü£.
+A
+java:S1659"$Declare "cancel" on a separate line.(‡İ¬Û8ˆû¢£.
+T
+java:S2696"6Make the enclosing method "static" or remove this set.(Ş´¾º8ˆû¢£.
+H
+java:S1659"&Declare "password" on a separate line.(ÀŠ­ıÿÿÿÿ8­Œ°ˆ.
+X	java:S125`"<This block of commented-out lines of code should be removed.(Ó²ƒ8úÍœ¨.
+X	java:S125I"<This block of commented-out lines of code should be removed.(ïıÅ‹8ˆû¢£.
+_
+java:S1226\"BIntroduce a new variable instead of reusing the parameter "email".(Ãñï€8äèœ¨.
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¨ğ„üşÿÿÿÿ8ˆû¢£.
+g
+java:S1226]"EIntroduce a new variable instead of reusing the parameter "password".(ï¨Ãîÿÿÿÿÿ8äèœ¨.
+J
+java:S1659"(Declare "locationId" on a separate line.(ÓÌµùÿÿÿÿ8ÿü£.
+S
+java:S2696s"6Make the enclosing method "static" or remove this set.(‹¤Çï8ˆû¢£.

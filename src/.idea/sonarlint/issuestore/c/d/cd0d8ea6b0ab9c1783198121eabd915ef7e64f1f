@@ -1,0 +1,21 @@
+
+l
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.(ŞØ÷98ñÃ‹Š.
+?
+java:S1659"#Declare "price" on a separate line.(ŞØ÷98ñÃ‹Š.
+B
+java:S1659"&Declare "quantity" on a separate line.(ŞØ÷98ñÃ‹Š.
+p
+java:S1104"TMake quantity a static final constant or non-public and provide accessors if needed.(ŞØ÷98ñÃ‹Š.
+r
+java:S1104"UMake imageView a static final constant or non-public and provide accessors if needed.(“ë›ˆ8ñÃ‹Š.
+m
+java:S1104"QMake price a static final constant or non-public and provide accessors if needed.(ŞØ÷98ñÃ‹Š.
+•
+java:S13199"sThe type of the "products" object should be an interface such as "List" rather than the implementation "ArrayList".(ëÓÎùÿÿÿÿ8ñÃ‹Š.
+ƒ
+java:S1488A"fImmediately return this expression instead of assigning it to the temporary variable "cartViewHolder".(ëá’²8ñÃ‹Š.
+t
+java:S1104"WMake deleteImage a static final constant or non-public and provide accessors if needed.(“ë›ˆ8œ±¸.
+F
+java:S1659")Declare "deleteImage" on a separate line.(“ë›ˆ8œ±¸.

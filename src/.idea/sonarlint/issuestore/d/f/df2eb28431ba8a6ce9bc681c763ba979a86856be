@@ -1,0 +1,9 @@
+
+V
+java:S3516-"9Refactor this method to not always return the same value.(·¿°¬8¨Î ¼.
+n
+java:S1450"QRemove the "dl" field and declare it as a local variable in the relevant methods.(œ¸øü8«  ¼.
+P
+java:S1144E".Remove this unused private "showToast" method.(Àû…ğúÿÿÿÿ8¨Î ¼.
+r	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºù¼­şÿÿÿÿ8«  ¼.
+h	java:S1285"LEnd this switch case with an unconditional break, return or throw statement.(•Ö€É8±ı´Ò.

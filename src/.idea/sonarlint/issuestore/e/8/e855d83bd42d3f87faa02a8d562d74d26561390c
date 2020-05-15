@@ -1,0 +1,12 @@
+
+W	java:S1254"<This block of commented-out lines of code should be removed.(ê”ïk8Èí†Š.
+y
+java:S1450 "\Remove the "layoutManager" field and declare it as a local variable in the relevant methods.(üÉÙ¼8±Œ°ˆ.
+}
+java:S1450"[Remove the "recyclerView" field and declare it as a local variable in the relevant methods.(¿á© ıÿÿÿÿ8±Œ°ˆ.
+b
+java:S1128"@Remove this unused import 'android.view.inputmethod.EditorInfo'.(êÔùíıÿÿÿÿ8±Œ°ˆ.
+Y	java:S125…"<This block of commented-out lines of code should be removed.(©Œ¤è8Õ†ş .
+{
+java:S2293'"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïáåÍıÿÿÿÿ8²ı´Ò.
+]	java:S125Q"<This block of commented-out lines of code should be removed.(ĞöÄøÿÿÿÿ8²ı´Ò.

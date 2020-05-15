@@ -1,0 +1,13 @@
+
+m	java:S128F"LEnd this switch case with an unconditional break, return or throw statement.(ØÎ¬üÿÿÿÿ8íÍ×º.
+S
+java:S1128"6Remove this unused import 'android.view.MenuInflater'.(¥ñ´Ò8íÍ×º.
+n
+java:S1450"QRemove the "dl" field and declare it as a local variable in the relevant methods.(œ¸øü8íÍ×º.
+X	java:S1255"<This block of commented-out lines of code should be removed.(ŞÎÂÚ8íÍ×º.
+W	java:S125H"<This block of commented-out lines of code should be removed.(¡®à/8íÍ×º.
+]	java:S125#"<This block of commented-out lines of code should be removed.(ÑÓçèûÿÿÿÿ8íÍ×º.
+]	java:S125%"<This block of commented-out lines of code should be removed.(‰Œ½½ıÿÿÿÿ8íÍ×º.
+X	java:S125)"<This block of commented-out lines of code should be removed.(ßäì‚8íÍ×º.
+]	java:S125/"<This block of commented-out lines of code should be removed.(ßÜ¦™øÿÿÿÿ8íÍ×º.
+r	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºù¼­şÿÿÿÿ8íÍ×º.

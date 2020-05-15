@@ -1,0 +1,5 @@
+
+r	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºù¼­şÿÿÿÿ8Ö†ş .
+n
+java:S1450"QRemove the "dl" field and declare it as a local variable in the relevant methods.(œ¸øü8Ö†ş .
+h	java:S128:"LEnd this switch case with an unconditional break, return or throw statement.(•Ö€É8±ı´Ò.

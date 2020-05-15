@@ -1,0 +1,18 @@
+
+N
+java:S1068&"1Remove this unused "usersListSize" private field.(¯¹À8Ñ†ş .
+}
+java:S1450!"[Remove the "recyclerView" field and declare it as a local variable in the relevant methods.(¿á© ıÿÿÿÿ8®Œ°ˆ.
+I
+java:S1144u",Remove this unused private "addUser" method.(ä°İ¸8®Œ°ˆ.
+n
+java:S1301­"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ8Ñ†ş .
+y
+java:S1450$"\Remove the "layoutManager" field and declare it as a local variable in the relevant methods.(üÉÙ¼8®Œ°ˆ.
+]	java:S125I"<This block of commented-out lines of code should be removed.(º”‚•øÿÿÿÿ8Ñ†ş .
+X	java:S125""<This block of commented-out lines of code should be removed.(ìªñœ8‹õó¨.
+T
+java:S1128"2Remove this unused import 'android.widget.Button'.(²òıÿÿÿÿ8Ñ†ş .
+X	java:S1251"<This block of commented-out lines of code should be removed.(ª¡¯°8®Œ°ˆ.
+^	java:S125°"<This block of commented-out lines of code should be removed.(¸Õù«ûÿÿÿÿ8Ñ†ş .
+^	java:S125²"<This block of commented-out lines of code should be removed.(Úö”èüÿÿÿÿ8±ı´Ò.

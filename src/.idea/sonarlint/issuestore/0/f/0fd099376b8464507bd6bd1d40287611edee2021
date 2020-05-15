@@ -1,0 +1,25 @@
+
+y
+java:S1450"\Remove the "layoutManager" field and declare it as a local variable in the relevant methods.(üÉÙ¼8¯Œ°ˆ.
+K
+java:S1444".Make this "public static cartList" field final(Çş«€8¯Œ°ˆ.
+:
+java:S2386"Make this member "protected".(Çş«€8ƒ¶É».
+y
+java:S1450"WRemove the "quantity" field and declare it as a local variable in the relevant methods.(¹Ï¤Îúÿÿÿÿ8ÜÑ».
+
+java:S1319"sThe type of the "cartList" object should be an interface such as "List" rather than the implementation "ArrayList".(Çş«€8¯Œ°ˆ.
+O
+java:S1128"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8œú».
+}
+java:S1450"[Remove the "recyclerView" field and declare it as a local variable in the relevant methods.(¿á© ıÿÿÿÿ8¯Œ°ˆ.
+q
+java:S1104"TMake cartList a static final constant or non-public and provide accessors if needed.(Çş«€8¯Œ°ˆ.
+H
+java:S1128"+Remove this unused import 'retrofit2.Call'.(Çö÷›8œú».
+L
+java:S1128"/Remove this unused import 'retrofit2.Response'.(¾éçï8œú».
+K
+java:S1128"/Remove this unused import 'retrofit2.Callback'.(›¨,8œú».
+p
+java:S1450"TRemove the "total" field and declare it as a local variable in the relevant methods.(£‹Ñ%8µÕÊ¤.
